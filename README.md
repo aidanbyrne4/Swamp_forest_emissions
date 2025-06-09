@@ -7,7 +7,7 @@ Date last modified: 06/06/2025
 Requirements:
 1) Google drive
 2) Google Earth Engine (GEE) account
-3) 2 X GEE Image Collection Assets
+3) 2 X Empty GEE Image Collection Assets
 
 This code obtains remote sensing data from GEE through the Python API. Requires two additional datasets:
 1) Groundtruth data for classifying swamp forests
