@@ -1,8 +1,8 @@
-# Swamp forest emissions manuscript code
+# Congo Basin swamp forest emissions manuscript code
 Created in the Python Google Colab environment.  
 Created by: Aidan Byrne (aidan.byrne@ioz.ac.uk)  
 Date created: 02/06/2025  
-Date last modified: 06/06/2025
+Date last modified: 09/06/2025
 
 Requirements:
 1) Google drive
